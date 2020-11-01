@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/maja cvetkovic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maja cvetkovic" height="30" width="40" /></a>
+<a href="https://www.facebook.com/maja.cvetkovic.91/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maja cvetkovic" height="30" width="40" /></a>
 <a href="https://instagram.com/majacv_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="majacv_" height="30" width="40" /></a>
 </p>
 
