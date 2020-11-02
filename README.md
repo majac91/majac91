@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Travel journal](https://github.com/majac91/Travel_journal)
 
-- 🌱 I’m currently learning **Code design patterns**
+- 🌱 I’m currently learning **Serverless databases**
 
 - 📫 How to reach me **majacvetkovic@outlook.com**
 
