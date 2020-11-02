@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maja</h1>
-<h3 align="center">An aspiring front-end web developer</h3>
+<h3 align="center">An aspiring front-end developer</h3>
 
 - 🔭 I’m currently working on [Travel journal](https://github.com/majac91/Travel_journal)
 
