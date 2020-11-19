@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [Travel journal](https://github.com/majac91/Travel_journal)
 
-- 🌱 I’m currently learning **Serverless databases**
+- 🌱 I’m currently learning **Handlebars.js**
+
+- 🎯 Want to learn next **React**
 
 - 📫 How to reach me **majacvetkovic@outlook.com**
 
