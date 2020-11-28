@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Travel journal](https://github.com/majac91/Travel_journal)
 
-- 🌱 I’m currently learning **Handlebars.js**
-
-- 🎯 Want to learn next **React**
+- 🎯 I’m currently learning **React**
 
 - 📫 How to reach me **majacvetkovic@outlook.com**
 
