@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maja</h1>
 <h3 align="center">An aspiring front-end developer</h3>
 
-- 🔭 I’m currently working on [Travel journal](https://github.com/majac91/Travel_journal)
+- 🔭 I’m currently working on [Photography_portfolio] https://github.com/majac91/Photography_portfolio
 
 - 🎯 I’m currently learning **React**
 
