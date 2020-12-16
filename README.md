@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on <a href ='https://github.com/majac91/Photography_portfolio'>Photography_portfolio</a>
 
-- 🎯 I’m currently learning **React**
+- 🎯 I’m currently learning  <a href ='https://github.com/majac91/Epic-React-notes.git'>React</a>
+   
 
 - 📫 How to reach me **majacvetkovic@outlook.com**
 
