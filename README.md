@@ -5,7 +5,7 @@
 # Hi 👋, I'm Maja
 
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/majac91)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/majacv_/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/majacv_/)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maja.cvetkovic.91/)
 
 𝑰 ❤️ f𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 d𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
@@ -33,6 +33,6 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![majac91's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
+![majac91's github stats](https://github-readme-stats.vercel.app/api?username=majac91&show_icons=true&theme=dracula)
 
 
