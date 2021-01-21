@@ -2,9 +2,8 @@
 
 
 
-# Hi 👋, I'm Maja
+# Hi <span class="wave">👋</span>, I'm Maja
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/majac91)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/majacv_/)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maja.cvetkovic.91/)
 
@@ -35,4 +34,21 @@
 
 ![majac91's github stats](https://github-readme-stats.vercel.app/api?username=majac91&show_icons=true&theme=dracula)
 
+span.wave {
+  animation-name: wave-animation;
+  animation-duration: 2.5s;
+  animation-iteration-count: infinite;
+  transform-origin: 70% 70%;
+  display: inline-block;
+}
+
+@keyframes wave-animation {
+    0% { transform: rotate(  0.0deg); }
+   10% { transform: rotate(-10.0deg); }
+   20% { transform: rotate( 12.0deg); }
+   30% { transform: rotate(-10.0deg); }
+   40% { transform: rotate(  9.0deg); }
+   50% { transform: rotate(  0.0deg); }
+  100% { transform: rotate(  0.0deg); }
+}
 
