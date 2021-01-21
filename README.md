@@ -13,7 +13,7 @@
 
 🎯 I’m currently learning  <a href ='https://github.com/majac91/Epic-React-notes.git'>React</a>
 
-📫 How to reach me **majacvetkovic@outlook.com**
+📫 Reach me **majacvetkovic@outlook.com**
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
