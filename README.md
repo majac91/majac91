@@ -9,7 +9,7 @@
 
 𝑰 ❤️ f𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 d𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-🔭 I’m currently working on <a href ='https://github.com/majac91/Photography_portfolio'>Photography_portfolio</a>
+🔭 I’m currently working on <a href ='https://github.com/majac91/Fiberart-webshop'>Fiberart-webshop</a>
 
 🎯 I’m currently learning  <a href ='https://github.com/majac91/Epic-React-notes.git'>React</a>
 
