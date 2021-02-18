@@ -11,7 +11,7 @@
 
 🔭 I’m currently working on <a href ='https://github.com/majac91/Fiberart-webshop'>Fiberart-webshop</a>
 
-🎯 I’m currently learning  <a href ='https://github.com/majac91/Epic-React-notes.git'>React</a> and Firebase
+🎯 I’m currently learning  <a href ='https://github.com/majac91/Epic-React-notes.git'>React</a>
 
 📫 Reach me **majacvetkovic@outlook.com**
 
