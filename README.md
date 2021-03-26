@@ -11,8 +11,7 @@
 
 🔭 I’m currently working on <a href ='https://github.com/majac91/Fiberart-webshop'>Fiberart-webshop</a>
 
-🎯 I’m currently learning  <a href ='https://github.com/majac91/Epic-React-notes.git'>Accessibility optimization</a>
-
+🎯 I’m currently learning - Accessibility optimization
 📫 Reach me **majacvetkovic@outlook.com**
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
