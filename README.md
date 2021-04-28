@@ -9,7 +9,7 @@
 
 𝑰 ❤️ f𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 d𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-🔭 I’m currently working on <a href ='https://github.com/majac91/Photography_portfolio_V2'>Fiberart-webshop</a>
+🔭 I’m currently working on <a href ='https://github.com/majac91/Photography_portfolio_V2'>Photography portfolio website</a>
 
 🎯 I’m currently learning - JavaScript Algorithms and Data Structures Masterclass
 
