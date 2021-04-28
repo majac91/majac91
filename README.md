@@ -9,9 +9,10 @@
 
 𝑰 ❤️ f𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 d𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-🔭 I’m currently working on <a href ='https://github.com/majac91/Fiberart-webshop'>Fiberart-webshop</a>
+🔭 I’m currently working on <a href ='https://github.com/majac91/Photography_portfolio_V2'>Fiberart-webshop</a>
 
-🎯 I’m currently learning - Accessibility optimization
+🎯 I’m currently learning - JavaScript Algorithms and Data Structures Masterclass
+
 📫 Reach me **majacvetkovic@outlook.com**
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
