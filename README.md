@@ -11,7 +11,7 @@
 
 🔭 I’m currently working on <a href ='https://github.com/majac91/Photography_portfolio_V2'>Photography portfolio website</a>
 
-🎯 I’m currently learning - JavaScript Algorithms and Data Structures Masterclass
+🎯 I’m currently learning - Redux
 
 📫 Reach me **majacvetkovic@outlook.com**
 
