@@ -9,9 +9,9 @@
 
 𝑰 ❤️ f𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 d𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-🔭 I’m currently working on <a href ='https://github.com/majac91/Discord'>Discord clone with React and Redux</a>
+<!-- 🔭 I’m currently working on <a href ='https://github.com/majac91/Discord'>Discord clone with React and Redux</a>
 
-🎯 I’m currently learning - Wordpress development
+🎯 I’m currently learning - Wordpress development -->
 
 📫 Reach me **majacvetkovic@outlook.com**
 
